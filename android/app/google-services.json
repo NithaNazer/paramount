@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962763728272",
+    "project_id": "paramountt-75367",
+    "storage_bucket": "paramountt-75367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962763728272:android:80ea38a1b5edc07385bf15",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukTBnQCPiE7-T1j9L9o0REGtLWqh0K6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
